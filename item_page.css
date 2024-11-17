@@ -1,0 +1,10 @@
+/* itemPage.css */
+.item-image {
+    width: 10%;          /* Займає всю ширину контейнера */
+    max-width: 50px;     /* Максимальна ширина */
+    height: auto;         /* Зберігає пропорції */
+    border-radius: 8px;   /* Закруглені кути */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тінь */
+    margin-bottom: 16px;  /* Відступ знизу */
+  }
+  
